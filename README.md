@@ -21,7 +21,8 @@ Web con información del Curso realizado por la Dirección General de Calidad In
 El curso fue realizado por Antonio Vázquez Brust, dictado en conjunto con Natsumi Shokida y Lautaro Cantar.
 
 Cualquier duda o consulta podés escribir a gobiernoabierto@buenosaires.gob.ar.
-** Links para aprender ramas en Git **
+
+**Links para aprender ramas en Git**
 
 >  https://desarrolloweb.com/articulos/trabajar-ramas-git.html
 
