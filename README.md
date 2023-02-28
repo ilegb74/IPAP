@@ -10,3 +10,13 @@ posibilita que los/as desarrolladores/as realicen tareas sobre el mismo proyecto
 trabajo de los/as demás.
 Git impulsa el trabajo ordenado y colaborativo entre trabajadores/as de un mismo sector y hasta
 entre diferentes organismos, ya que posibilita la eficiencia, la confiabilidad y compatibilidad del
+
+** Links para aprender ramas en Git **
+
+>  https://desarrolloweb.com/articulos/trabajar-ramas-git.html
+
+Usaremos el comando git branch para crear ramas dentro del proyecto, movernos entre ramas con checkout, fusionarlas con merge, así como trabajar con ramas de repositorios remotos.
+
+>  https://www.atlassian.com/es/git/tutorials/using-branches
+
+Este documento constituye una revisión en profundidad del comando git branch y una exposición general del modelo de creación de ramas de Git.
